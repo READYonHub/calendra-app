@@ -18,4 +18,6 @@
     npm install @clerk/themes
     npm i drizzle-orm @neondatabase/serverless dotenv
     npm i -D drizzle-kit
+    npx shadcn@latest init
+    npx shadcn@latest add button
 ```
