@@ -11,5 +11,6 @@
 ```sh
     npx create-next-app@latest calendra-app
     npm install @clerk/nextjs
+    npm install @clerk/themes
     
 ```
