@@ -20,4 +20,15 @@
     npm i -D drizzle-kit
     npx shadcn@latest init
     npx shadcn@latest add button
+    npx shadcn@latest add card
+    npm i zod
+    npm install react-hook-form
+    npx shadcn@latest add form
+    npm install @hookform/resolvers zod
+    npx shadcn@latest add input
+    npx shadcn@latest add textarea
+    npx shadcn@latest add switch
+npx shadcn@latest add alert-dialog
+
+
 ```
